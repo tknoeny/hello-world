@@ -1,7 +1,7 @@
 --------------------------------------------------------------
 ### REQUIREMENTS
 
-  `need MongoD` installed on system
+  `need MongoDB` installed on system
   `need python 2.7` installed
     `pip installation recommended` to aid in installing
      of package requirements from requirements.txt
@@ -847,4 +847,3 @@ Returns: a list of recipes containing any of the searched tags in the following 
 }
 Requires: a tag_string to be passed at the end of the route
     The tag string should be a list of tags separated by commas ","
-
